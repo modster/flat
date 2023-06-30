@@ -1,4 +1,4 @@
-# Flata Data
+# Flat Data
 
 ## Description
 
